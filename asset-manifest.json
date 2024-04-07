@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-component-server-axios-kit/static/css/main.50afe44c.css",
-    "main.js": "/react-component-server-axios-kit/static/js/main.5d636ead.js",
+    "main.css": "/react-component-server-axios-kit/static/css/main.cfa7aa20.css",
+    "main.js": "/react-component-server-axios-kit/static/js/main.e91b88bf.js",
     "index.html": "/react-component-server-axios-kit/index.html",
-    "main.50afe44c.css.map": "/react-component-server-axios-kit/static/css/main.50afe44c.css.map",
-    "main.5d636ead.js.map": "/react-component-server-axios-kit/static/js/main.5d636ead.js.map"
+    "main.cfa7aa20.css.map": "/react-component-server-axios-kit/static/css/main.cfa7aa20.css.map",
+    "main.e91b88bf.js.map": "/react-component-server-axios-kit/static/js/main.e91b88bf.js.map"
   },
   "entrypoints": [
-    "static/css/main.50afe44c.css",
-    "static/js/main.5d636ead.js"
+    "static/css/main.cfa7aa20.css",
+    "static/js/main.e91b88bf.js"
   ]
 }
