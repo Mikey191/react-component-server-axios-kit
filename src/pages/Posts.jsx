@@ -19,7 +19,7 @@ function Posts() {
   const [filter, setFilter] = useState({ sort: "", query: "" });
   const [modal, setModal] = useState(false);
   const [totalPages, setTotalPages] = useState(0);
-  const [limit, setLimit] = useState(10);
+  const [limit, setLimit] = useState(20);
   const [page, setPage] = useState(1);
 
   const [fetchPosts, isPostsLoading, postError] = useFetching(

@@ -1,6 +1,7 @@
 .wrapper {
   margin-top: 30px;
   display: flex;
+  width: 80vw;
 }
 .page {
   border-radius: 50px;
