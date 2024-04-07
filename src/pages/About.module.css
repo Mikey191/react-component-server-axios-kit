@@ -1,0 +1,51 @@
+.aboutTitle {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  color: #36187d;
+  font-family: Bellota Text;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  padding: 50px;
+}
+.project {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding: 15px;
+  margin-bottom: 50px;
+}
+.projectName {
+  color: #36187d;
+  text-align: center;
+  font-family: Bellota Text;
+  font-size: 24px;
+  font-weight: 700;
+}
+.projectHref {
+  color: #6c758f;
+  font-family: Bellota Text;
+  font-size: 18px;
+  font-weight: 700;
+}
+.description {
+  margin-bottom: 30px;
+}
+.descriptionTitle {
+  color: #36187d;
+  text-align: center;
+  font-family: Bellota Text;
+  font-size: 30px;
+  font-weight: 700;
+  padding: 30px;
+}
+.descriptionItem {
+  color: #6c758f;
+  font-family: Bellota Text;
+  font-size: 18px;
+  font-weight: 700;
+  padding: 10px;
+}

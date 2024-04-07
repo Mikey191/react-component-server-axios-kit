@@ -1,0 +1,30 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 550px;
+  padding: 30px;
+}
+.navbarLinks {
+  display: flex;
+  gap: 30px;
+}
+.linksItem {
+  color: #6c758f;
+  font-family: Bellota Text;
+  font-size: 19.2px;
+  font-weight: 700;
+}
+.navbarButton {
+  border-radius: 48px;
+  background: rgba(255, 255, 255, 0);
+  box-shadow: -8px -8px 16px 0px #fff, 9.6px 9.6px 19.2px 0px #d2dce9;
+  align-items: center;
+
+  color: #0196E3;
+  font-size: 15px;
+  font-weight: 400;
+}
+.navbarButton > p {
+  padding: 15px;
+}
