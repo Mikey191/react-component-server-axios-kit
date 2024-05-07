@@ -2,6 +2,7 @@
 
 ## ВТОРАЯ ЧАСТЬ ПРОЕКТА react-component.
 Для реализации, как базу, нужно взять проект из репозитория: https://github.com/Mikey191/react-component-toolkit
+
 Установить зависимость для анимации: npm install react-transition-group --save
 
 ## Содержание второй части проекта:
